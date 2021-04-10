@@ -1,11 +1,4 @@
-![xChr0n0 Logo](https://xChr0n0.io/images/logo_at_readme.png)
 
-"Valuable secure Privacy cryptocurrency"
-
-<a href="https://discord.gg/uDmpSHx"><img src="https://discordapp.com/api/guilds/398369914760593419/embed.png" alt="Discord server" /></a>
-
-
-| [Website](https://xChr0n0.io) |[Block Explorer](https://explorer.xChr0n0.io/) |
 
 Features
 =============
@@ -21,26 +14,13 @@ The xChr0n0core Project is a decentralized peer-to-peer banking financial platfo
 
 | Specification | Value |
 |:-----------|:-----------|
-| Total Blocks | `8,409,600` |
 | Block Size | `4MB` |
-| Block Time | `120s` |
-| PoW Reward | `30 x00` |
-| Masternode Requirement | `5,000 x00` |
-| Masternode Reward | `15 x00 First Year` - `20 x00 Second Year` |
+| Block Time | `300s` |
+| PoW Reward | `75 x00` |
+| Masternode Requirement | `10,000 x00` |
 | Port | `53656` |
 | RPC Port | `53654` |
 | Masternode Port | `53656` |
-
-
-
-
-| Year | PoW Reward | MN Reward |
-|:-----------|:-----------|:-----------|
-| 1 | `30 x00` | `15 x00` |
-| 2 | `20 x00` | `20 x00` |
-| 3 | `10 x00` | `15 x00` |
-| 4 | `5 x00` | `10 x00` |
-| 5 | `2.5 x00` | `7.5 x00` |
 
 
 
