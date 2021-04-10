@@ -1,0 +1,11 @@
+[Protocol]
+exec=xChr0n0-qt '%u'
+protocol=xChr0n0
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

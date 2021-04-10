@@ -1,0 +1,13 @@
+Building xChr0n0
+
+Use the autogen script to prepare the build environment.
+
+    ./autogen.sh
+    ./configure
+    make
+
+Always verify the signatures and checksums.
+
+See doc/build-*.md for instructions on building xChr0n0d,
+the intended-for-services, no-graphical-interface, reference
+implementation of xChr0n0.

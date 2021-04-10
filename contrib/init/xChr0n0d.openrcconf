@@ -1,0 +1,26 @@
+# /etc/conf.d/xChr0n0d: config file for /etc/init.d/xChr0n0d
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/xChr0n0/xChr0n0.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/xChr0n0d"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/xChr0n0d.pid"
+
+# Where to write xChr0n0d data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/xChr0n0d"
+
+# User and group to own xChr0n0d process
+#BITCOIND_USER="xChr0n0"
+#BITCOIND_GROUP="xChr0n0"
+
+# Path to xChr0n0d executable
+#BITCOIND_BIN="/usr/bin/xChr0n0d"
+
+# Nice value to run xChr0n0d under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

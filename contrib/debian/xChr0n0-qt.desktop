@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=xChr0n0
+Comment=xChr0n0 P2P Cryptocurrency
+Comment[fr]=xChr0n0, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=xChr0n0, eşten eşe kriptografik sanal para birimi
+Exec=xChr0n0-qt %u
+Terminal=false
+Type=Application
+Icon=xChr0n0128
+MimeType=x-scheme-handler/xChr0n0;
+Categories=Office;Finance;
